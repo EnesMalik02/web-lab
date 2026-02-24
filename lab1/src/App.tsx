@@ -27,7 +27,7 @@ function App() {
             <h3>Öğrenci</h3>
             <p>Enes Malik ARI - 235541069</p>
             {/* Lokal görsel, boyut ve lazy loading (Performans & CLS için) */}
-            <img src="/vite.svg" alt="Profil" width="80" height="80" loading="lazy" />
+            <img src="/lighthouse.png" alt="Lighthouse" width="80" height="80" loading="lazy" />
           </article>
         </section>
         <section>
